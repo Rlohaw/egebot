@@ -1,0 +1,16 @@
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: ru,ru-RU;q=0.9,en-US;q=0.8,en;q=0.7
+cache-control: max-age=0
+cookie: tmr_lvid=44bd41a03f0ee3879650649a4e49d5c2; tmr_lvidTS=1673275371786; _ym_uid=1673275372207112815; _ym_d=1673275372; _ga=GA1.2.61338143.1673275372; _gid=GA1.2.287698202.1673275372; updateSavedConstructor=true; _ym_isad=2; rtoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo5NzI2NTgxLCJpZCI6MTkwOTI4MDl9.jY_KL6tw6dA_luV3dIbsjzTVuzEhwQHH9pe2xHXfCKk; tmr_detect=0%7C1673357680059; content_width=820; cf_clearance=1YVmRVCAYcDbuHxhGiIjUg6mAsELiJOYaYF2kafvg.A-1673360207-0-150; atoken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzMzNzQ5OTksImJ1aWQiOjUxNjUzLCJ1c2VyX2lkIjo5NzI2NTgxLCJsb2dpbl9pbmZvIjo5MzYxOTc5OTc3ODc3NjMxODU3MDY5NzQ4NDc0NDEwNDM1MDR9.rPSKL2PYpzzSm6q91wcIAz7-NkRlobNt-wqx4ascrBI; _ym_visorc=b
+dnt: 1
+referer: https://inf-ege.sdamgia.ru/test?id=12168299&nt=True&pub=False
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: same-site
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
